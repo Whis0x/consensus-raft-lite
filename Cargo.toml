@@ -1,0 +1,8 @@
+[package]
+name = "consensus-raft-lite"
+version = "0.1.0"
+edition = "2021"
+description = "Deterministic Raft consensus state machine and formal safety invariant checks in Rust"
+license = "MIT"
+
+[dependencies]
